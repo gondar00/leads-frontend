@@ -14,7 +14,7 @@ export default function DashboardDefault() {
         titleDescription="This is the list of leads you can purchase from."
       />
       <DashboardDefaultSection2 />
-      <DashboardDefaultSection1 />
+      {/* <DashboardDefaultSection1 /> */}
       {/* <DashboardDefaultSection3 /> */}
       {/* <DashboardDefaultSection4 /> */}
     </Fragment>
