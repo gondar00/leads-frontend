@@ -15,7 +15,7 @@ import {
 export default function LivePreviewExample() {
   const [data, setData] = useState([])
   useEffect(() => {
-    fetch('http://leads-strapi.herokuapp.com/leads', {
+    fetch('https://leads-strapi.herokuapp.com/leads', {
       headers: {
         Authorization: `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVmOTUzZTQxM2UzMzNlMmYwYzQ5NTcyNiIsImlhdCI6MTYwMzgyMTc2NiwiZXhwIjoxNjA2NDEzNzY2fQ.Dt4uU7D7bHeA-794Ad9RfAiRpgPwUPP7FZLJRmuktBM `,
       }})
