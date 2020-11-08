@@ -30,7 +30,7 @@ export default function CheckoutForm() {
 
     setAmount(query.get('c'));
     setCurrency('$');
-    setClientSecret('sk_test_51HgWnqFjE8SSvyvfH3YmMQeHgWFzKwAz7BgHd5IDtvtZpTeUuna9VfBQ76TOCzuAhebXiU4zmhbbjZHKGg78IzjU00lRhLyCjc');
+    setClientSecret('sk_test_secret_51HgWnqFjE8SSvyvfH3YmMQeHgWFzKwAz7BgHd5IDtvtZpTeUuna9VfBQ76TOCzuAhebXiU4zmhbbjZHKGg78IzjU00lRhLyCjc');
 
     // Step 2: Create PaymentIntent over Stripe API
     // api
