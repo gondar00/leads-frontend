@@ -1,17 +1,8 @@
 {
-  "name": "bamburgh-react-admin-dashboard-reactstrap-free",
+  "name": "leads",
   "version": "1.1.0",
-  "title": "Bamburgh React Admin Dashboard with Reactstrap Free",
-  "homepage": "https://demo.uifort.com/bamburgh-react-admin-dashboard-reactstrap-free",
-  "description": "This admin template is the perfect lite solution for building React powered applications or presentation websites.",
-  "author": {
-    "name": "UiFort.com",
-    "url": "https://uifort.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/uifort/bamburgh-react-admin-dashboard-reactstrap-free"
-  },
+  "title": "leads",
+  "homepage": "https://gondar00.github.io/leads-frontend",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "1.2.27",
     "@fortawesome/free-brands-svg-icons": "5.12.1",
