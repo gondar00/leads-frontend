@@ -11,7 +11,7 @@ export default function DashboardDefault() {
     <Fragment>
       <PageTitle
         titleHeading="Leads"
-        titleDescription="This is the list of leads you can purchase from."
+        // titleDescription="This is the list of leads you can purchase from."
       />
       <DashboardDefaultSection2 />
       {/* <DashboardDefaultSection1 /> */}

@@ -52,7 +52,7 @@ export default function LivePreviewExample() {
                     20
                   </td>
                   <td className="text-center">
-                    20$
+                    $ 20
                   </td>
                   <td className="text-center">
                   <Link
@@ -75,7 +75,7 @@ export default function LivePreviewExample() {
                     100
                   </td>
                   <td className="text-center">
-                    100$
+                    $ 100
                   </td>
                   <td className="text-center">
                     <Link
@@ -98,7 +98,7 @@ export default function LivePreviewExample() {
                     200
                   </td>
                   <td className="text-center">
-                    180$
+                    $ 180
                   </td>
                   <td className="text-center">
                     <Link
@@ -121,7 +121,7 @@ export default function LivePreviewExample() {
                     500
                   </td>
                   <td className="text-center">
-                    375$
+                    $ 375
                   </td>
                   <td className="text-center">
                     <Link

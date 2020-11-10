@@ -11,12 +11,12 @@ export default function DashboardDefault() {
     <Fragment>
       <PageTitle
         titleHeading="My Leads"
-        titleDescription="This is the list of leads you purchased."
+        // titleDescription="This is the list of leads you purchased."
       />
-      <DashboardDefaultSection2 />
+      {/* <DashboardDefaultSection2 /> */}
       {/* <DashboardDefaultSection1 /> */}
       {/* <DashboardDefaultSection3 /> */}
-      {/* <DashboardDefaultSection4 /> */}
+      <DashboardDefaultSection4 />
     </Fragment>
   );
 }

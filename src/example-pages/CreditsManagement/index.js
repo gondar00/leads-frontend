@@ -11,7 +11,7 @@ export default function DashboardDefault() {
     <Fragment>
       <PageTitle
         titleHeading="Credits management"
-        titleDescription="Purchase credits from here"
+        // titleDescription="Purchase credits from here"
       />
       <DashboardDefaultSection3 />
       {/* <DashboardDefaultSection3 /> */}

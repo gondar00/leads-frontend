@@ -19,7 +19,7 @@ class PageTitle extends Component {
               </div>
             </div>
           </div>
-          <div className="d-flex align-items-center mt-3 mt-lg-0">
+          {/* <div className="d-flex align-items-center mt-3 mt-lg-0">
             <Button
               size="sm"
               color="primary"
@@ -37,7 +37,7 @@ class PageTitle extends Component {
             <UncontrolledTooltip target="AddEntryTooltip20">
               Add new entry
             </UncontrolledTooltip>
-          </div>
+          </div> */}
         </div>
       </Fragment>
     );
